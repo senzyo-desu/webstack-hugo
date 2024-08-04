@@ -241,6 +241,16 @@
           url: https://bruh-clips.com/
           description: "仅支持上传MP4视频, 支持在线播放"
 
+        - title: tl-rtc-file
+          logo: images/logos/Default.svg
+          url: https://im.iamtsm.cn/file
+          description: "功能超多的WebRTC开源项目"
+
+        - title: transfer.zip
+          logo: images/logos/Default.svg
+          url: https://transfer.zip/
+          description: "也基于WebRTC"
+
 - taxonomy: 邮箱
   icon: fa-envelope
   list: 
@@ -490,6 +500,16 @@
           logo: images/logos/IKnow.svg
           url: https://iknowwhatyoudownload.com/en/peer
           description: "查询IP的Torrent下载记录"
+
+        - title: AlternativeTo
+          logo: images/logos/Default.svg
+          url: https://alternativeto.net/
+          description: "寻找可替代的应用程序和服务"
+
+        - title: OpenAlternative
+          logo: images/logos/Default.svg
+          url: https://openalternative.co/
+          description: "发现流行软件的开源替代品"
 
     - term: 学习
       icon: fa-graduation-cap
@@ -1122,6 +1142,11 @@
           logo: images/logos/Encycolorpedia.svg
           url: https://encycolorpedia.cn/
           description: "十六进制颜色表以及调色搭配"
+
+        - title: Color4bg
+          logo: images/logos/Default.svg
+          url: http://www.color4bg.com/zh-hans/
+          description: "免费的抽象艺术风彩色背景"
 
         - title: 中国色
           logo: images/logos/ZhongGuoSe.svg
@@ -1795,7 +1820,7 @@
 
         - title: 拷贝漫画
           logo: images/logos/Default.svg
-          url: https://www.copymanga.site/
+          url: https://mangacopy.com/
           description: "需代理"
 
         - title: Komiic漫画
@@ -2422,6 +2447,11 @@
           url: https://textbook.synaiv.com/
           description: "非常齐全的教科书下载站"
 
+        - title: 考途指南
+          logo: images/logos/Default.svg
+          url: https://pppw1my52v.feishu.cn/wiki/DGtMwJailirOwPk3OBIcTbTCnhg
+          description: "各种公考类真题汇总"
+
     - term: 文化
       icon: fa-fire
       links:
@@ -2625,6 +2655,11 @@
           logo: images/logos/Default.svg
           url: https://loseprivacy.sbs/?lp=NDE2MzIy
           description: "社工库, 只允许中国IP访问。发布页: web.losedh.cyou"
+
+        - title: WhatPlug
+          logo: images/logos/Default.svg
+          url: https://whatplug.info/zh/
+          description: "各国家电源适配器指南"
 
     - term: 杂项
       icon: fa-pagelines
