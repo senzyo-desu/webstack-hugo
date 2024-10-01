@@ -158,7 +158,7 @@
         - title: OneDrive
           logo: images/logos/OneDrive.svg
           url: https://onedrive.live.com/
-          description: "需代理"
+          description: "须代理"
 
         - title: 百度网盘
           logo: images/logos/Baidu-Drive.svg
@@ -937,6 +937,11 @@
           url: https://simpleicons.org/
           description: "知名图标库"
 
+        - title: Fey’s logo database
+          logo: images/logos/Default.svg
+          url: https://www.fey.com/marketing/logos
+          description: "大公司logo收集"
+
         - title: 阿里巴巴矢量图标库
           logo: images/logos/Iconfont.svg
           url: https://www.iconfont.cn/
@@ -996,11 +1001,6 @@
           logo: images/logos/SnowFlaker.svg
           url: https://www.misha.studio/snowflaker/
           description: "各种雪花的矢量图"
-
-        - title: 395印章
-          logo: images/logos/Default.svg
-          url: http://web.aa6666.com/
-          description: "制作电子版印章"
 
     - term: 图库
       icon: fa-photo
@@ -1260,7 +1260,7 @@
         - title: Facebook Design
           logo: images/logos/Meta.svg
           url: https://design.facebook.com/toolsandresources/devices/
-          description: "需代理"
+          description: "须代理"
 
         - title: Freebiesbug
           logo: images/logos/Freebiesbug.svg
@@ -1338,6 +1338,11 @@
     - term: 图片处理
       icon: fa-crop
       links:
+        - title: Omnifile
+          logo: images/logos/Default.svg
+          url: https://omnifile.co/zh-cn/
+          description: "图像查看、转换、背景移除、OCR等等。浏览器本地运行"
+
         - title: Clipdrop
           logo: images/logos/Default.svg
           url: https://clipdrop.co/
@@ -1437,6 +1442,11 @@
           logo: images/logos/Default.svg
           url: https://svgco.de/
           description: "位图转SVG"
+
+        - title: Vectorizer
+          logo: images/logos/Default.svg
+          url: https://vectorizer.com/zh/
+          description: "PNG转SVG"
 
     - term: 抠除背景
       icon: fa-eraser
@@ -1689,22 +1699,17 @@
       links:
         - title: 樱之空动漫
           logo: images/logos/Default.svg
-          url: https://www.skr2.cc/
-          description: 
-
-        - title: 漫岛
-          logo: images/logos/Default.svg
-          url: https://www.mandaow.com/
+          url: https://www.skr1.cc/
           description: 
 
         - title: AGE动漫
           logo: images/logos/Default.svg
           url: https://www.agedm.org/
-          description: "发布页: rentry.la/agefans"
+          description: "须直连, 发布页: rentry.la/agefans"
 
         - title: 次元城动漫
           logo: images/logos/Default.svg
-          url: https://www.cycdm01.top/
+          url: https://www.cyc-anime.net/
           description: "t.me/cycdm"
 
         - title: ギリギリ愛
@@ -1724,33 +1729,28 @@
 
         - title: 樱花动漫
           logo: images/logos/Default.svg
-          url: https://www.295dm.com/
-          description: "发布页: www.88dm.fans"
+          url: https://99dm.tv/
+          description: "发布页: www.88dm.top"
 
         - title: NT动漫
           logo: images/logos/Default.svg
-          url: https://www.ntdm9.com/
-          description: "永久网址: www.ntdm.tv"
+          url: https://www.ntdm.tv/
+          description: 
 
         - title: 怡萱动漫
           logo: images/logos/Default.svg
-          url: https://www.iyxdm.cc/
-          description: "发布页: rentry.org/yxdm"
-
-        - title: ELFUN
-          logo: images/logos/Default.svg
-          url: https://www.lffun.com/
-          description: 
+          url: https://yxdm.tv/
+          description: "发布页: rentrys.cc/yxdm"
 
         - title: AcFuns
           logo: images/logos/Default.svg
-          url: https://www.anfuns.cc/
-          description: 
+          url: https://www.anfuns.org/
+          description: "t.me/+E4NnPjEZBu01MDJl"
 
         - title: 路漫漫
           logo: images/logos/Default.svg
-          url: https://m.lmm52.com/
-          description: "发布页: web.qg50.com"
+          url: https://dm.g916.com/
+          description: "发布页: index.qg50.com"
 
     - term: 动漫下载
       icon: fa-download
@@ -1768,75 +1768,70 @@
         - title: 蜜柑计划
           logo: images/logos/Default.svg
           url: https://mikanani.me/
-          description: "需代理"
+          description: "须代理"
 
         - title: VCB-Studio
           logo: images/logos/Default.svg
           url: https://vcb-s.com/
-          description: "需代理"
+          description: "须代理"
 
         - title: 末日动漫资源库
           logo: images/logos/Default.svg
           url: https://share.acgnx.se/
-          description: "需代理"
+          description: "须代理"
 
         - title: 萌番组
           logo: images/logos/Default.svg
           url: https://bangumi.moe/
-          description: "需代理"
+          description: "须代理"
 
         - title: 漫猫动漫
           logo: images/logos/Default.svg
           url: https://comicat.org/
-          description: "需代理"
+          description: "须代理"
 
         - title: 动漫花园
           logo: images/logos/Default.svg
           url: https://share.dmhy.org/
-          description: "需代理"
+          description: "须代理"
 
         - title: Nyaa
           logo: images/logos/Default.svg
           url: https://nyaa.si/
-          description: "需代理"
+          description: "须代理"
 
         - title: ACG.RIP
           logo: images/logos/Default.svg
           url: https://acg.rip/
-          description: "需代理"
+          description: "须代理"
 
         - title: 南+
           logo: images/logos/Default.svg
           url: https://summer-plus.net/
-          description: "需代理"
+          description: "须代理"
 
     - term: 漫画
       icon: fa-eye
       links:
-        - title: 漫搜
-          logo: images/logos/Default.svg
-          url: https://www.mansou.co/
-          description: "漫画聚合搜索"
-
         - title: 拷贝漫画
           logo: images/logos/Default.svg
           url: https://mangacopy.com/
-          description: "需代理"
+          description: "推荐走代理"
 
         - title: Komiic漫画
           logo: images/logos/Default.svg
           url: https://komiic.com/
           description: 
 
-        - title: 包子漫画
+        - title: G社漫画
           logo: images/logos/Default.svg
-          url: https://www.baozimh.com/
-          description: "baozimh.com"
+          url: https://m.g-mh.org/
+          description: "发布页: nav.telltome.net"
 
         - title: 包子漫画
           logo: images/logos/Default.svg
-          url: https://cocomanga.org/
-          description: "cocomanga.org"
+          url: https://www.baozimh.com/
+          description: 
 
         - title: 漫画160
           logo: images/logos/Default.svg
@@ -1855,28 +1850,23 @@
 
         - title: 古风漫画网
           logo: images/logos/Default.svg
-          url: https://www.gufengmh.com/
-          description: 
-
-        - title: 动漫之家
-          logo: images/logos/Default.svg
-          url: https://www.idmzj.com/
+          url: https://www.gufengmh9.com/
           description: 
 
         - title: 二次元动漫
           logo: images/logos/Default.svg
           url: https://www.2animx.com/
-          description: "需代理"
+          description: "推荐走代理"
 
         - title: 国漫吧
           logo: images/logos/Default.svg
           url: http://www.guoman8.cc/
-          description: "需代理"
+          description: "须代理"
 
         - title: 漫画柜
           logo: images/logos/Default.svg
           url: https://www.manhuagui.com/
-          description: "需代理"
+          description: "须代理"
 
         - title: Kox.moe
           logo: images/logos/Default.svg
@@ -1894,7 +1884,7 @@
         - title: SauceNAO
           logo: images/logos/Default.svg
           url: https://saucenao.com/
-          description: 
+          description: "须代理"
 
         - title: TraceMOE
           logo: images/logos/Default.svg
@@ -1909,12 +1899,12 @@
         - title: TinEye
           logo: images/logos/Default.svg
           url: https://tineye.com/
-          description: "需代理"
+          description: "须代理"
 
         - title: 多引擎搜索
           logo: images/logos/Default.svg
           url: http://www.iqdb.org/
-          description: "需代理"
+          description: 
 
     - term: 游戏
       icon: fa-gamepad
@@ -1964,6 +1954,11 @@
           url: https://www.chess.com/zh
           description: "在线国际象棋"
 
+        - title: OldSWF
+          logo: images/logos/Default.svg
+          url: https://oldswf.com/
+          description: "超多Flash小游戏在线玩"
+
     - term: 其他
       icon: fa-leaf
       links:
@@ -1992,11 +1987,6 @@
           url: https://acgsecrets.hk/
           description: 
 
-        - title: PixivNow
-          logo: images/logos/Pixiv.svg
-          url: https://pixiv.js.org/
-          description: "Pixiv镜像站之一"
-
         - title: PixivIC
           logo: images/logos/Pixiv.svg
           url: http://sharemoe.net/
@@ -2012,6 +2002,11 @@
           url: https://akuma.ai/
           description: "根据草稿实时生成二次元画作"
 
+        - title: Cleithral
+          logo: images/logos/Default.svg
+          url: https://www.cleithral.com/
+          description: "根据图片或视频片段查询出于哪部动漫"
+
 - taxonomy: 视频
   icon: fa-play-circle
   list: 
@@ -2023,11 +2018,6 @@
           url: https://soupian.icu/
           description: "聚合搜索, 在线+BT+云盘+字幕"
 
-        - title: 艾兔影漫
-          logo: images/logos/Default.svg
-          url: https://atym.app/
-          description: "聚合搜索"
-
         - title: 爱看机器人
           logo: images/logos/Default.svg
           url: https://v.ikanbot.com/
@@ -2036,7 +2026,7 @@
         - title: 优质资源库
           logo: images/logos/Default.svg
           url: https://www.hdzyk.com/
-          description: "备用网址: 1080zyk1.com至1080zyk10.com"
+          description: "备用网址: 1080zyk1.com至1080zyk15.com"
 
         - title: 123Series
           logo: images/logos/Default.svg
@@ -2053,16 +2043,6 @@
           url: https://www.dytt360.com/
           description: 
 
-        - title: JOJO
-          logo: images/logos/Default.svg
-          url: https://jiohub.top/
-          description: 
-
-        - title: 爱云影视
-          logo: images/logos/Default.svg
-          url: https://www.iyunys.com/
-          description: 
-
         - title: 蜥蜴影院
           logo: images/logos/Default.svg
           url: https://xi1.net/
@@ -2073,15 +2053,10 @@
           url: https://kanb.tv/
           description: 
 
-        - title: 好运TV
-          logo: images/logos/Default.svg
-          url: https://www.haoyuntv.com/
-          description: 
-
         - title: 金曼TV
           logo: images/logos/Default.svg
-          url: https://jinman2.com/
-          description: "发布页: jinman.tv"
+          url: https://www.jinman6.com/
+          description: "发布页: www.jinman.cc"
 
         - title: HDmoli
           logo: images/logos/Default.svg
@@ -2103,10 +2078,30 @@
           url: https://pupvod.com/
           description: 
 
-        - title: 哔嘀影视
+        - title: 缘觉影视
           logo: images/logos/Default.svg
-          url: https://www.bdys10.com/
+          url: https://yjys.inf.ua/
           description: "发布页: bdys.me"
+
+        - title: 如意视频
+          logo: images/logos/Default.svg
+          url: https://rysp.tv/
+          description: 
+
+        - title: 金牌影院
+          logo: images/logos/Default.svg
+          url: https://fjvtw.com/
+          description: 
+
+        - title: 看美剧影视
+          logo: images/logos/Default.svg
+          url: https://kmeiju.com/
+          description: 
+
+        - title: 剧圈圈
+          logo: images/logos/Default.svg
+          url: https://www.jqqzx.me/
+          description: "发布页: link3.cc/jqqzx"
 
     - term: 视频下载
       icon: fa-download
@@ -2144,7 +2139,7 @@
         - title: 蚂蚁4K
           logo: images/logos/Default.svg
           url: https://www.mayi4k.com/
-          description: 
+          description: "备用网址: www.mayi4k.org"
 
         - title: 迷客电影
           logo: images/logos/Default.svg
@@ -2164,32 +2159,27 @@
         - title: TorrentGalaxy
           logo: images/logos/Default.svg
           url: https://tgx.sb/
-          description: "需代理, 发布页: torrentgalaxy.org"
+          description: "发布页: torrentgalaxy.org"
 
         - title: YTS.MX
           logo: images/logos/YTS.svg
           url: https://yts.mx/
-          description: "需代理"
+          description: "须代理"
 
         - title: Torlock
           logo: images/logos/Torlock.svg
           url: https://www.torlock.com/
-          description: "需代理"
+          description: "须代理"
 
         - title: 海盗湾
           logo: images/logos/Default.svg
           url: https://thepiratebay.org/
-          description: "需代理"
+          description: "须代理"
 
         - title: 1337X
           logo: images/logos/Default.svg
           url: https://1337x.to/
-          description: "需代理"
-
-        - title: BT之家
-          logo: images/logos/Default.svg
-          url: https://www.btbtt19.com/
-          description: "需代理"
+          description: "须代理"
 
     - term: 视频处理
       icon: fa-film
@@ -2215,12 +2205,17 @@
         - title: WebCamera
           logo: images/logos/Default.svg
           url: https://webcamera.cc/zh
-          description: "基于WebRTC的实时监控"
+          description: "基于WebRTC的实时摄像头"
 
         - title: uIPCat
           logo: images/logos/Default.svg
           url: https://uipcat.cn/
-          description: "基于WebRTC的实时监控"
+          description: "基于WebRTC的实时摄像头"
+
+        - title: pin.gl
+          logo: images/logos/Default.svg
+          url: https://pin.gl/
+          description: "基于WebRTC的实时摄像头与屏幕共享"
 
         - title: Skyline
           logo: images/logos/Default.svg
@@ -2326,6 +2321,16 @@
           url: https://acgn.ttson.cn/
           description: "二次元文本转语音"
 
+        - title: SenseVoice
+          logo: images/logos/Default.svg
+          url: https://www.modelscope.cn/studios/iic/SenseVoice
+          description: "音频识别理解模型"
+
+        - title: CosyVoice
+          logo: images/logos/Default.svg
+          url: https://www.modelscope.cn/studios/iic/CosyVoice-300M
+          description: "极速复刻声音, 可生成高级音色"
+
 - taxonomy: 更多
   icon: fa-leaf
   list: 
@@ -2339,8 +2344,8 @@
 
         - title: Z-Library
           logo: images/logos/Z-Library.svg
-          url: https://zh.zlibrary-global.se/
-          description: "这是正确的官网"
+          url: https://zh.singlelogin.re/
+          description: "en.wikipedia.org/wiki/Z-Library"
 
         - title: 世界数字图书馆
           logo: images/logos/WDL.svg
@@ -2415,7 +2420,17 @@
         - title: Liber3
           logo: images/logos/Default.svg
           url: https://liber3.eth.limo/
-          description: "去中心化的电子书搜索引擎"
+          description: "基于区块链的电子书搜索引擎"
+
+        - title: HallowLib
+          logo: images/logos/Default.svg
+          url: https://bk.hallowlib.org/
+          description: "基于IPFS的电子书搜索引擎"
+
+        - title: SaltyLeo的书架
+          logo: images/logos/Default.svg
+          url: https://book.tstrs.me/search
+          description: "电子书籍聚合搜索引擎"
 
         - title: 淘链客
           logo: images/logos/Toplinks.svg
@@ -2495,6 +2510,11 @@
           url: https://www.zdic.net/
           description: 
 
+        - title: 文言文字典
+          logo: images/logos/Default.svg
+          url: https://wyw.hwxnet.com/
+          description: "站内还有其他字典"
+
         - title: 寻古诗词
           logo: images/logos/XunGuShiCi.svg
           url: https://www.xungushici.com/
@@ -2543,6 +2563,11 @@
         - title: 皮影数字博物馆
           logo: images/logos/Default.svg
           url: http://shadow.caa.edu.cn/
+          description: 
+
+        - title: 时光图书馆
+          logo: images/logos/Default.svg
+          url: https://atimebook.com/
           description: 
 
     - term: 趣站
@@ -2660,6 +2685,11 @@
           logo: images/logos/Default.svg
           url: https://whatplug.info/zh/
           description: "各国家电源适配器指南"
+
+        - title: 习近平系列重要讲话数据库
+          logo: images/logos/Default.svg
+          url: http://jhsjk.people.cn/
+          description: 
 
     - term: 杂项
       icon: fa-pagelines
