@@ -49,11 +49,46 @@
     - title: ChatGPT
       logo: images/logos/OpenAI-ChatGPT.svg
       url: https://chatgpt.com/
-      description: 
+      description: "须代理"
 
     - title: Gemini
       logo: images/logos/Google-Gemini.svg
-      url: https://gemini.google.com/
+      url: https://aistudio.google.com/app/prompts/
+      description: "须代理"
+
+    - title: Poe
+      logo: images/logos/Quora-Poe.svg
+      url: https://poe.com/
+      description: "须代理"
+
+    - title: Perplexity
+      logo: images/logos/Perplexity.svg
+      url: https://www.perplexity.ai/
+      description: "须代理"
+
+    - title: Cici
+      logo: images/logos/ByteDance-Cici.png
+      url: https://www.ciciai.com/
+      description: "豆包的国际版, 须代理"
+
+    - title: 豆包
+      logo: images/logos/ByteDance-Doubao.png
+      url: https://www.doubao.com/
+      description: 
+
+    - title: Kimi
+      logo: images/logos/Moonshot-Kimi.svg
+      url: https://kimi.moonshot.cn/
+      description: 
+
+    - title: 通义千问
+      logo: images/logos/Ali-Tongyi.svg
+      url: https://tongyi.aliyun.com/qianwen/
+      description: 
+
+    - title: 秘塔AI搜索
+      logo: images/logos/Mita.svg
+      url: https://metaso.cn/
       description: 
 
     - title: Hugging Face
@@ -61,29 +96,9 @@
       url: https://huggingface.co/
       description: 
 
-    - title: Kimi
-      logo: images/logos/Moonshot-Kimi.svg
-      url: https://kimi.moonshot.cn/chat/
-      description: 
-
     - title: Mistral
       logo: images/logos/Mistral.svg
-      url: https://chat.mistral.ai/chat
-      description: 
-
-    - title: Perplexity
-      logo: images/logos/Perplexity.svg
-      url: https://www.perplexity.ai/
-      description: 
-
-    - title: Poe
-      logo: images/logos/Quora-Poe.svg
-      url: https://poe.com/
-      description: 
-
-    - title: 通义千问
-      logo: images/logos/Ali-Tongyi.svg
-      url: https://tongyi.aliyun.com/qianwen/
+      url: https://chat.mistral.ai/
       description: 
 
 - taxonomy: 工具箱
@@ -340,7 +355,7 @@
       icon: fa-edit
       links:
         - title: 秘塔写作猫
-          logo: images/logos/Xiezuocat.svg
+          logo: images/logos/Mita.svg
           url: https://xiezuocat.com/
           description: "辅助写作"
 
