@@ -1002,6 +1002,11 @@
           url: https://www.misha.studio/snowflaker/
           description: "各种雪花的矢量图"
 
+        - title: Svg.la
+          logo: images/logos/Default.svg
+          url: https://svg.la/zh/text-to-svg/
+          description: "用AI从文本描述生成SVG"
+
     - term: 图库
       icon: fa-photo
       links:
@@ -1914,25 +1919,25 @@
           url: https://www.ithome.com/tag/xijiayi/
           description: "领取Epic, Steam, GOG赠送的游戏"
 
-        - title: Wavse
+        - title: Koyso
           logo: images/logos/Default.svg
-          url: https://wavse.com/
+          url: https://koyso.com/
           description: "发布页: sway.cloud.microsoft/HHSjaNhSbMuhNpTh"
 
         - title: Switch520
           logo: images/logos/Default.svg
           url: https://www.gamer520.com/
-          description: "发布页: laoquzhang.com"
+          description: "发布页: sway.cloud.microsoft/3ITZvccF7cBNXJH7"
+
+        - title: 奥德彪计划
+          logo: images/logos/Default.svg
+          url: https://2468c.com/
+          description: "游戏资源下载站"
 
         - title: BYRUTOR
           logo: images/logos/Default.svg
           url: https://thebyrut.org/
           description: "来自俄罗斯的游戏下载站"
-
-        - title: 老游戏在线玩
-          logo: images/logos/Default.svg
-          url: https://zaixianwan.app/
-          description: 
 
         - title: CurseForge
           logo: images/logos/Default.svg
@@ -1958,6 +1963,21 @@
           logo: images/logos/Default.svg
           url: https://oldswf.com/
           description: "超多Flash小游戏在线玩"
+
+        - title: 老游戏在线玩
+          logo: images/logos/Default.svg
+          url: https://zaixianwan.app/
+          description: 
+
+        - title: PolyTrack
+          logo: images/logos/Default.svg
+          url: https://polytracks.org/
+          description: "在线赛车游戏"
+
+        - title: slow roads
+          logo: images/logos/Default.svg
+          url: https://slowroads.io/
+          description: "在线驾驶游戏"
 
     - term: 其他
       icon: fa-leaf
