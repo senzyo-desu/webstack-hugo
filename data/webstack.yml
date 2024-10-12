@@ -2382,6 +2382,11 @@
           url: https://zh.singlelogin.re/
           description: "en.wikipedia.org/wiki/Z-Library"
 
+        - title: Anna's Archive
+          logo: images/logos/Default.svg
+          url: https://zh.annas-archive.org/
+          description: "en.wikipedia.org/wiki/Anna%27s_Archive"
+
         - title: 世界数字图书馆
           logo: images/logos/WDL.svg
           url: https://www.loc.gov/
