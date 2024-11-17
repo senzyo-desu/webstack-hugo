@@ -105,7 +105,7 @@
   icon: fa-cogs
   links: 
     - title: 优秀工具箱集合
-      logo: images/logos/Github.svg
+      logo: images/logos/GitHub.svg
       url: https://github.com/bestxtools/awesome-toolbox-chinese
       description: "awesome-toolbox-chinese"
 
@@ -399,6 +399,11 @@
           url: https://simpletex.cn/ai/latex_ocr
           description: "主打LaTeX识别"
 
+        - title: JSON For You
+          logo: images/logos/Default.svg
+          url: https://json4u.cn/
+          description: "多功能JSON可视化与处理工具"
+
     - term: PDF
       icon: fa-file-pdf-o
       links:
@@ -440,6 +445,11 @@
     - term: PPT
       icon: fa-file-powerpoint-o
       links:
+        - title: AI PPT Maker
+          logo: images/logos/Default.svg
+          url: https://aipptmaker.ai/cn/
+          description: "免费在线AI一键生成PPT"
+
         - title: OfficePLUS
           logo: images/logos/Microsoft.svg
           url: https://www.officeplus.cn/
@@ -1468,6 +1478,16 @@
           url: https://vectorizer.com/zh/
           description: "PNG转SVG"
 
+        - title: FacePoke
+          logo: images/logos/HuggingFace.svg
+          url: https://huggingface.co/spaces/jbilcke-hf/FacePoke
+          description: "基于AI的人脸编辑工具"
+
+        - title: Expression Editor 
+          logo: images/logos/HuggingFace.svg
+          url: https://huggingface.co/spaces/fffiloni/expression-editor
+          description: "另一个基于AI的人脸编辑工具"
+
     - term: 抠除背景
       icon: fa-eraser
       links:
@@ -1537,6 +1557,11 @@
     - term: 文字处理
       icon: fa-font
       links:
+        - title: Free Font
+          logo: images/logos/GitHub.svg
+          url: https://github.com/jaywcjlove/free-font
+          description: "收录可商用的免费字体"
+
         - title: 字由
           logo: images/logos/HelloFont.svg
           url: https://www.hellofont.cn/
@@ -1710,6 +1735,11 @@
           logo: images/logos/Default.svg
           url: https://wangyasai.github.io/Play-a-ball/
           description: 
+
+        - title: Moe Counter
+          logo: images/logos/Default.svg
+          url: https://count.getloli.com/
+          description: "卡通人物数字展示牌"
 
 - taxonomy: ACGN
   icon: fa-heart
@@ -1993,6 +2023,11 @@
           logo: images/logos/Default.svg
           url: https://slowroads.io/
           description: "在线驾驶游戏"
+
+        - title: Git游戏
+          logo: images/logos/Default.svg
+          url: https://gityx.com/
+          description: "收集GitHub上好玩的HTML游戏"
 
     - term: 其他
       icon: fa-leaf
@@ -2377,6 +2412,11 @@
           url: https://github.com/jackhawks/telegram-groups
           description: "请自行搜索图书相关频道/群组/机器人"
 
+        - title: SLUM
+          logo: images/logos/Default.svg
+          url: https://open-slum.org
+          description: "监控影子图书馆的可用性"
+
         - title: Z-Library
           logo: images/logos/Z-Library.svg
           url: https://zh.singlelogin.re/
@@ -2610,6 +2650,11 @@
           url: https://atimebook.com/
           description: 
 
+        - title: 五十弦
+          logo: images/logos/Default.svg
+          url: https://www.wushixian.info/
+          description: "AI描述景色, 助你附庸风雅"
+
     - term: 趣站
       icon: fa-futbol-o
       links:
@@ -2768,6 +2813,11 @@
           logo: images/logos/Default.svg
           url: https://pt.ziziyi.com/
           description: 
+
+        - title: Musicca
+          logo: images/logos/Default.svg
+          url: https://www.musicca.com/zh
+          description: "免费学习音乐乐理"
 
 - taxonomy: SenZyo
   icon: fa-info
